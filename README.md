@@ -8,4 +8,5 @@
 
 ### Tech-Stack: HTML, CSS & Javascript, using WebGL.
 
+## StoryBoard:
 ![alt text](https://github.com/alok059/computer-graphics/blob/main/Storyboard.png?raw=true)
