@@ -7,5 +7,6 @@
 #### The Color of the fan blades is darkened with respect to speed of the fan.
 
 ### Tech-Stack: HTML, CSS & Javascript, using WebGL.
+## Storyboard is given as:
 
 ![alt text](https://github.com/alok059/computer-graphics/blob/main/Storyboard.png?raw=true)
