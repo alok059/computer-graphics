@@ -1,6 +1,7 @@
 # Computer-graphics
 ## Project
 ### Alok Shree Koirala - 102103157
+### Shree Krishan Singla - 102103178
 
 ## Creating an animation of a fan which turns on and speeds when user gives input.
 
