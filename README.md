@@ -5,3 +5,5 @@
 
 #### The speed of the fan can be changed by the user.
 #### The Color of the fan blades is darkened with respect to speed of the fan.
+
+### Tech-Stack: HTML, CSS & Javascript, using WebGL.
