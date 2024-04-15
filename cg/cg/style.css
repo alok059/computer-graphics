@@ -1,0 +1,12 @@
+body { margin: 0; }
+
+.main1{
+   
+    display: flex;
+    
+   
+}
+
+canvas { 
+    justify-content: center;
+}
